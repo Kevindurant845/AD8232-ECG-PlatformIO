@@ -9,7 +9,7 @@ from pyqtgraph.Qt import QtCore, QtWidgets
 # =========================
 # CONFIGURATION
 # =========================
-PORT = "COM4"          # CHANGE THIS
+PORT = "COM9"          # CHANGE THIS
 BAUD = 115200
 FS = 360              # sampling frequency
 
